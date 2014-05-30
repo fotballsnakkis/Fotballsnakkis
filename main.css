@@ -935,10 +935,10 @@ p.date {
     width: 28px;
 }
 
-   #logo-text {background: url(http://se5revolution.s3.amazonaws.com/uploads/1120/936575.png) 0 50% no-repeat;
+   #logo-text {background: url(http://se5revolution.s3.amazonaws.com/uploads/1120/937222.png) 0 50% no-repeat;
 display: block;
 height: 28px;
-margin-top:-35px
+margin-top:-35px;
 margin-left: 34px;
 text-indent: -9999px;
 width: 122px;}
@@ -5912,7 +5912,7 @@ content: " ";
 -moz-border-top-colors: none;}
       .activity>li {background:#fff; border: 1px solid;
 border-color: #e5e6e9 #dfe0e4 #d0d1d5;
--webkit-border-radius: 3px;display:block;496px;
+-webkit-border-radius: 3px;display:block;width:496px;
 margin-left:20%;}
   .activity .activity_inner {margin-left:10px;margin-top:10px;}
   .activity .member_photo{
