@@ -967,6 +967,11 @@ width: 122px;}
     filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
     opacity: 1;
 }
+.content {float: left;
+margin-top: 50px;
+margin: 0 auto;
+position: relative;
+width: 100%;}
 
 @media screen and (max-width:900px) {
     #primary-menu-toggle {
@@ -5866,8 +5871,8 @@ text-shadow: 0 -1px rgba(0, 0, 0, 0.11);
       
       
       /**Activity Composer**/
-      .activity_composer{width:50em;
-        margin-left:2em;
+      .activity_composer{width:496px;
+        margin-left:20%;
         padding: 0px;
 background: #fff;
 border: 1px solid;
@@ -5907,8 +5912,8 @@ content: " ";
 -moz-border-top-colors: none;}
       .activity>li {background:#fff; border: 1px solid;
 border-color: #e5e6e9 #dfe0e4 #d0d1d5;
--webkit-border-radius: 3px;display:block;width: 45em;
-margin-left:2em;}
+-webkit-border-radius: 3px;display:block;496px;
+margin-left:20%;}
   .activity .activity_inner {margin-left:10px;margin-top:10px;}
   .activity .member_photo{
     float:right;
