@@ -995,7 +995,7 @@ p.date {
 
 #header-primary .search-box {
     position: absolute;
-    top: -60px;
+    top: -58px;
     z-index: 9999;
     right: 0;
 }
