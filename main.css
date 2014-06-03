@@ -1140,10 +1140,10 @@ width: 100%;}
 }
 
 #newsroom-like {
-    position: absolute;
-    top: 20px;
-    right: 50%;
-    margin-right: -240px;
+   position: absolute;
+top: 32px;
+right: 50%;
+margin-right: -200px;
 }
 
 .admin-bar #newsroom-like {
