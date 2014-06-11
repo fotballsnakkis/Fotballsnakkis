@@ -934,6 +934,7 @@ p.date {
     height: 28px;
     margin-right: -100%;
     width: 28px;
+    border-radius:5px;
 }
 
    #logo-text {background: url(http://se5revolution.s3.amazonaws.com/uploads/1120/965415.png) 0 50% no-repeat;
