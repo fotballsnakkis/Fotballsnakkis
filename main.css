@@ -1002,7 +1002,7 @@ width: 100%;}
 #header-primary .search-box {
     position: absolute;
     top: -58px;
-    z-index: 9999;
+    z-index: 999;
     right: 0;
 }
 
